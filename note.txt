@@ -1,0 +1,5 @@
+Client: https://github.com/coder-sabbir/sigma-ecom-mern-app/tree/main/frontend
+
+Server: https://github.com/coder-sabbir/sigma-ecom-mern-app/tree/main/backend
+
+deployed version: https://sigmakart-app.onrender.com/
